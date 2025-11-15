@@ -41,7 +41,7 @@ enum MyCVData {
             role: "Administrator",
             company: "City Multiprofile Hospital 18",
             startDate: "09.25",
-            endDate: "Present"
+            endDate: "11.25"
         ),
         ExperienceItem(
             role: "Medical Statistician,",
